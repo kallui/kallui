@@ -1,4 +1,5 @@
-# hi :)
+<img width="256" height="256" alt="kiki idle" src="https://github.com/user-attachments/assets/80ce8902-8414-4f11-8cb7-344c533e5e52" />
+
 <!--
 **kallui/kallui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
